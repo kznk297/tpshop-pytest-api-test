@@ -1,0 +1,12 @@
+# pytest缓存和报告
+.pytest_cache/
+__pycache__/
+*.pyc
+report.html
+
+# python虚拟环境（你暂时没用，写上规范一点）
+venv/
+.venv/
+
+# VSCode本地配置
+.vscode/
